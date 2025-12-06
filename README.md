@@ -7,8 +7,7 @@
 
 <div style="flex: 1;">
 
-### 🌐 Portfolio  
-👉 **https://abhiruchikunte.github.io/Portfolio/**
+### 🌐 Portfolio ➜ **https://abhiruchikunte.github.io/Portfolio/**
 
 <table>
 <tr>
@@ -76,5 +75,3 @@
 <img src="https://img.icons8.com/color/48/figma--v1.png" width="48px"/>
 <img src="https://img.icons8.com/color/48/canva.png" width="48px"/>
 </p>
-
----
