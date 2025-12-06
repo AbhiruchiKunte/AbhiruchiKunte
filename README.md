@@ -1,4 +1,4 @@
-<h1 align="center">🌟 Hi, I'm Abhiruchi Kunte 🌟</h1>
+<h2 align="center">🌟 Hi, I'm Abhiruchi Kunte 🌟</h2>
 <h3 align="center">Aspiring Full Stack Developer & AI/ML Enthusiast from Mumbai, Maharashtra</h3>
 
 ---
@@ -7,34 +7,19 @@
 
 <div style="flex: 1;">
 
+### 🌐 Portfolio  
+👉 **https://abhiruchikunte.github.io/Portfolio/**
+
 <table>
 <tr>
 
 <td width="60%" valign="top">
 
-### 🌟 Who I Am  
-- IT Engineering student passionate about **full stack development**, **clean UI/UX**, and **AI/ML**.  
-- Skilled in building responsive web apps, designing intuitive interfaces, and working with modern web technologies.  
-- Actively exploring **Machine Learning** and **Data Analytics**, applying Python-based ML tools to solve real-world problems.  
----
-### 🤝 What I’m Looking For  
-- Seeking **internships** and **entry-level opportunities** in Full Stack Development, AI/ML, and Data Analytics domains.   
-- Eager to join teams where I can **learn, build, and contribute** to meaningful real-world projects.
+### 🌟 About Me  
+- IT Engineering student passionate about **Full Stack Development**, **UI/UX**, and **AI/ML**, focused on creating clean and responsive user experiences.    
+- Seeking **internships/entry-level roles** where I can learn, grow, and contribute to meaningful real-world projects.
 
-</td>
-
-<td width="40%" align="center">
-
-<img src="https://cdn.pixabay.com/photo/2024/05/20/13/28/ai-generated-8775235_640.png" width="300px"/>
-
-</td>
-
-</tr>
-</table>
-
----
-
-## 📫 Connect With Me
+### 📫 Connect With Me
 
 <p align="left">
 <a href="mailto:kunteabhiruchi@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png"/></a>
@@ -43,9 +28,20 @@
 <a href="https://www.instagram.com/__.abhiruchiii"><img src="https://img.icons8.com/fluency/48/instagram-new.png"/></a>
 </p>
 
+</td>
+
+<td width="40%" align="center">
+  
+<img src="https://cdn.pixabay.com/photo/2024/05/20/13/28/ai-generated-8775235_640.png" width="260px" height="260px" />
+
+</td>
+
+</tr>
+</table>
+
 ---
 
-## 🧰 Languages & Tools I Use  
+### 🧰 Languages & Tools I Use  
 
 <p align="left">
 
