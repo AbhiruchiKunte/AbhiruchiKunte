@@ -1,7 +1,4 @@
 <h2 align="center">🌟 Hi, I'm Abhiruchi Kunte 🌟</h2>
-<h3 align="center">Aspiring Full Stack Developer & AI/ML Enthusiast from Mumbai, Maharashtra</h3>
-
----
 
 <img align="right" src="https://cdn.pixabay.com/photo/2024/05/20/13/28/ai-generated-8775235_640.png" width="340px" height="340px" alt="developer illustration" />
 
