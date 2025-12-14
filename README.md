@@ -3,20 +3,14 @@
 
 ---
 
-<div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
+<img align="right" src="https://cdn.pixabay.com/photo/2024/05/20/13/28/ai-generated-8775235_640.png" width="340px" height="340px" alt="developer illustration" />
 
-<div style="flex: 1;">
+### 📌 Profile Overview  
 
-### 🌐 Portfolio ➜ **https://abhiruchikunte.github.io/Portfolio/**
-
-<table>
-<tr>
-
-<td width="60%" valign="top">
-
-### 🌟 About Me  
-- IT Engineering student passionate about **Full Stack Development**, **UI/UX**, and **AI/ML**, focused on creating clean and responsive user experiences.    
-- Seeking **internships/entry-level roles** where I can learn, grow, and contribute to meaningful real-world projects.
+- IT Engineering student passionate about **Full Stack Development**, **UI/UX**, and **AI/ML**, focused on creating clean and responsive user experiences.  
+- Seeking **internships / entry-level roles** where I can learn, grow, and contribute to meaningful real-world projects.
+  
+### 🌐 Portfolio ➜  <a href="https://abhiruchikunte.github.io/Portfolio/">abhiruchikunte.github.io/Portfolio</a>
 
 ### 📫 Connect With Me
 
@@ -27,51 +21,44 @@
 <a href="https://www.instagram.com/__.abhiruchiii"><img src="https://img.icons8.com/fluency/48/instagram-new.png"/></a>
 </p>
 
-</td>
+---
 
-<td width="40%" align="center">
-  
-<img src="https://cdn.pixabay.com/photo/2024/05/20/13/28/ai-generated-8775235_640.png" width="260px" height="260px" />
+## 🧰 Languages & Tools I Use  
 
-</td>
+<div style="width: 550px; white-space: nowrap; overflow-x: auto;">
 
-</tr>
-</table>
+  <!-- Languages -->
+  <img src="https://img.icons8.com/color/48/html-5.png"/>
+  <img src="https://img.icons8.com/color/48/css3.png"/>
+  <img src="https://img.icons8.com/color/48/javascript.png"/>
+  <img src="https://img.icons8.com/color/48/typescript.png"/>
+  <img src="https://img.icons8.com/color/48/python.png"/>
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
+
+  <!-- Frontend -->
+  <img src="https://img.icons8.com/color/48/react-native.png"/>
+  <img src="https://img.icons8.com/color/48/angularjs.png"/>
+  <img src="https://img.icons8.com/color/48/bootstrap.png"/>
+  <img src="https://img.icons8.com/color/48/tailwindcss.png"/>
+
+  <!-- Backend -->
+  <img src="https://img.icons8.com/color/48/nodejs.png"/>
+  <img src="https://img.icons8.com/fluency/48/express-js.png"/>
+  <img src="https://img.icons8.com/fluency/48/api-settings.png"/>
+
+  <!-- Databases -->
+  <img src="https://img.icons8.com/color/48/mysql-logo.png"/>
+  <img src="https://img.icons8.com/color/48/mongodb.png"/>
+  <img src="https://img.icons8.com/color/48/postgreesql.png"/>
+
+  <!-- Tools -->
+  <img src="https://img.icons8.com/color/48/git.png"/>
+  <img src="https://img.icons8.com/glyph-neue/48/github.png"/>
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png"/>
+  <img src="https://img.icons8.com/color/48/figma--v1.png"/>
+  <img src="https://img.icons8.com/color/48/canva.png"/>
+
+</div>
 
 ---
 
-### 🧰 Languages & Tools I Use  
-
-<p align="left">
-
-<!-- Languages -->
-<img src="https://img.icons8.com/color/48/html-5.png" width="48px"/>
-<img src="https://img.icons8.com/color/48/css3.png" width="48px"/>
-<img src="https://img.icons8.com/color/48/javascript.png" width="48px"/>
-<img src="https://img.icons8.com/color/48/typescript.png" width="48px"/>
-<img src="https://img.icons8.com/color/48/python.png" width="48px"/>
-<img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" width="48px"/>
-
-<!-- Frontend -->
-<img src="https://img.icons8.com/color/48/react-native.png" width="48px"/>
-<img src="https://img.icons8.com/color/48/angularjs.png" width="48px"/>
-<img src="https://img.icons8.com/color/48/bootstrap.png" width="48px"/>
-<img src="https://img.icons8.com/color/48/tailwindcss.png" width="48px"/>
-
-<!-- Backend -->
-<img src="https://img.icons8.com/color/48/nodejs.png" width="48px"/>
-<img src="https://img.icons8.com/fluency/48/express-js.png" width="48px"/>
-<img src="https://img.icons8.com/fluency/48/api-settings.png" width="48px"/>
-
-<!-- Databases -->
-<img src="https://img.icons8.com/color/48/mysql-logo.png" width="48px"/>
-<img src="https://img.icons8.com/color/48/mongodb.png" width="48px"/>
-<img src="https://img.icons8.com/color/48/postgreesql.png" width="48px"/>
-
-<!-- Tools & Platforms -->
-<img src="https://img.icons8.com/color/48/git.png" width="48px"/>
-<img src="https://img.icons8.com/glyph-neue/48/github.png" width="48px"/>
-<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" width="48px"/>
-<img src="https://img.icons8.com/color/48/figma--v1.png" width="48px"/>
-<img src="https://img.icons8.com/color/48/canva.png" width="48px"/>
-</p>
