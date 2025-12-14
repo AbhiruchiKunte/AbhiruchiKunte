@@ -2,6 +2,7 @@
 
 <img align="right" src="https://cdn.pixabay.com/photo/2024/05/20/13/28/ai-generated-8775235_640.png" width="340px" height="340px" alt="developer illustration" />
 
+
 ### 📌 Profile Overview  
 
 - IT Engineering student passionate about **Full Stack Development**, **UI/UX**, and **AI/ML**, focused on creating clean and responsive user experiences.  
